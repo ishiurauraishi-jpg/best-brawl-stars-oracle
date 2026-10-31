@@ -164,4 +164,4 @@ did nothing" when they simply never restarted.
 
 ---
 
-*Brawl Stars · Updated 2026-10-30 · Shared under the MIT License*
+*Brawl Stars · Updated 2026-10-31 · Shared under the MIT License*
